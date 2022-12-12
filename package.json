@@ -1,0 +1,17 @@
+{
+  "name": "my-blockchain",
+  "version": "0.0.1",
+  "description": "My blockchain",
+  "author": "Diego Alexander Londoño <dlondonom@gmail.com> (elDalo)",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "hex2ascii": "^0.0.3"
+  }
+}
